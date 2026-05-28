@@ -1,0 +1,7 @@
+{
+  "input_file": "exp_cdk2.csv",
+  "output_file": "qcscore_boltzmann.csv",
+  "boltzmann_temperature": 300,
+  "clash_score_threshold": 0,
+  "pose_suffix_pattern": "_[0-9]+$"
+}
